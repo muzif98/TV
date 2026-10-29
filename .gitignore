@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Per-site browser profiles
+.librewolf-*-profile/
+.chrome-*-profile/
+
+# Windows build output
+windows/build/
+windows/dist/
+windows/*.spec

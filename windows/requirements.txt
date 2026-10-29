@@ -1,0 +1,5 @@
+selenium>=4.46
+sounddevice
+numpy
+pycaw
+comtypes
